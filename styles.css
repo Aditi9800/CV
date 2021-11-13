@@ -1,0 +1,22 @@
+body{
+    background-color: cornsilk;
+}
+img{
+    border-radius: 100%;
+    border-color: rgb(151, 137, 5);
+    border-style: double;
+    border-width: 3px;
+}
+hr{
+border-style: none;
+border-top-style: dotted;
+border-width:5px ;
+border-color: orangered;
+width: 30%;
+}
+h1{
+    color: rgb(255, 0, 64);
+}
+h3{
+    color:rgb(241, 9, 67) ;
+}
